@@ -1,6 +1,7 @@
 #python3 岭南师范学院基础教育学院||湛江幼专-清元系统-成绩查询
 '''此项目纯属兴趣使然和实际需求，作者是个新手，代码没有模块化和规范化
-有兴趣的话欢迎来共同完善，github：'''
+有兴趣的话欢迎来共同完善
+https://github.com/TsengX/Qingyuan-System-Score-Inquiry.git'''
 import requests
 #import urllib.parse
 #import json
